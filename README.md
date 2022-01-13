@@ -20,3 +20,5 @@ $ git remote -v
 ```
 $ git push origin master
 ```
+
+원격 저장소에서 수정 작업을 하지 않기.
